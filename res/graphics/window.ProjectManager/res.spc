@@ -1,4 +1,3 @@
-parent: window/ProjectManager.jar
 #1.png {
 	version: sp2.0
 	type: image:png
@@ -46,4 +45,8 @@ parent: window/ProjectManager.jar
 #selected.txt {
 	version: sp2.0
 	type: color:int
+}
+#DejaVuSans.txt {
+	version: sp2.0
+	type: font:TrueTypeFont
 }
